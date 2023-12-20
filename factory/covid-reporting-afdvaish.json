@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-afdvaish",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e29a2704-4384-43ee-9801-8c01267c6b4d",
+		"tenantId": "e30f2392-2694-4bed-bd8a-e44bc3384776"
+	}
+}
