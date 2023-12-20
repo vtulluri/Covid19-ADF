@@ -1,7 +1,7 @@
 # Leveraging Azure Data Factory for COVID-19 Analytics
 This repository contains my COVID-19 Data Analysis Project, created as part of refreshing my skills, particularly in Azure, after my experience as an Associate Data Engineer. Leveraging Azure services, including HDInsight, HTTP transformations, Data Factory and Data Lake, this project demonstrates a comprehensive approach to data processing and analysis.
 
-**Project Highlights**
+**Project Highlights**<br>
 **Azure Skills Refresh:** 
 The primary goal of this project is to refresh and enhance my Azure skills by applying them to real-world data analysis challenges.
 
